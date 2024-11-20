@@ -5507,7 +5507,8 @@ gov.sd
 info.sd
 
 // se : https://www.iana.org/domains/root/db/se.html
-// Submitted by registry <patrik.wallstrom@iis.se>
+// https://data.internetstiftelsen.se/barred_domains_list.txt -> Second level domains & Sub-domains
+// Submitted by Registry Services <registry@internetstiftelsen.se> 2024-11-20
 se
 a.se
 ac.se
