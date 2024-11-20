@@ -1469,12 +1469,12 @@ sch.ir
 is
 
 // it : https://www.iana.org/domains/root/db/it.html
+// https://www.nic.it/
 it
 gov.it
 edu.it
-// Reserved geo-names (regions and provinces):
-// https://www.nic.it/sites/default/files/archivio/docs/Regulation_assignation_v7.1.pdf
-// Regions
+// Regions (3.3.1), Provinces (3.3.2)
+// https://www.nic.it/en/manage-your-it/forms-and-docs -> "Assignment and Management of domain names"
 abr.it
 abruzzo.it
 aosta-valley.it
