@@ -1473,7 +1473,7 @@ is
 it
 gov.it
 edu.it
-// Regions (3.3.1), Provinces (3.3.2)
+// Regions (3.3.1)
 // https://www.nic.it/en/manage-your-it/forms-and-docs -> "Assignment and Management of domain names"
 abr.it
 abruzzo.it
@@ -1589,7 +1589,7 @@ vao.it
 vda.it
 ven.it
 veneto.it
-// Provinces
+// Provinces (3.3.2)
 ag.it
 agrigento.it
 al.it
@@ -5508,7 +5508,7 @@ info.sd
 
 // se : https://www.iana.org/domains/root/db/se.html
 // https://data.internetstiftelsen.se/barred_domains_list.txt -> Second level domains & Sub-domains
-// Submitted by Registry Services <registry@internetstiftelsen.se> 2024-11-20
+// Confirmed by Registry Services <registry@internetstiftelsen.se> 2024-11-20
 se
 a.se
 ac.se
